@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "now-server": {
+      "command": "./gradlew",
+      "args": [
+        "run",
+        "--console=plain",
+        "-q"
+      ],
+      "cwd": "/Users/admin/Documents/mcpdemo",
+      "env": {}
+    }
+  }
+}
+

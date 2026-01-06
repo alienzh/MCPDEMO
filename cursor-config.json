@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "now-server": {
+      "command": "/usr/bin/java",
+      "args": [
+        "-jar",
+        "/Users/admin/Documents/mcpdemo/libs/mcpdemo-1.0.0.jar"
+      ],
+      "env": {}
+    }
+  }
+}
